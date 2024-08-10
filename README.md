@@ -1,8 +1,7 @@
 # vscode-json
-## basic json setting for my vscode
-___
-
-{
+- basic json setting for my vscode
+#
+    {
     "workbench.sideBar.location": "right",
     "workbench.colorTheme": "Tokyo Night",
     "editor.linkedEditing": true,
@@ -20,7 +19,7 @@ ___
     "explorer.confirmDragAndDrop": false,
     "editor.wordWrap": "on",
     "editor.cursorBlinking": "expand",
-}
+    }
 
 
 - install tokyo night as theme
